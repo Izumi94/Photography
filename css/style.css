@@ -48,6 +48,7 @@ ul {
     font-size: 8px;
     font-weight: 600;
     padding: 0 30px;
+    cursor: pointer;
 }
 
 .nav .logo {
@@ -114,6 +115,7 @@ ul {
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .info i {
@@ -163,4 +165,5 @@ ul {
     text-transform: uppercase;
     letter-spacing: 15px;
     margin-top: 20px;
+    cursor: pointer;
 }
